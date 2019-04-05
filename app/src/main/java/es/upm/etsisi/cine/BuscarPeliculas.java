@@ -18,6 +18,7 @@ import es.upm.etsisi.cine.retrofit.model.Respuesta;
 import io.reactivex.Observable;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.schedulers.Schedulers;
+import org.reactivestreams.Subscriber;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
@@ -63,7 +64,6 @@ public class BuscarPeliculas extends AppCompatActivity implements SearchView.OnQ
 
     private SwipeRefreshLayout swipeRefreshLayout;
 
-    Observable observable;
 
     private void buscarPeliculas(String query) {
 

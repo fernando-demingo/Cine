@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "966283767355",
+    "firebase_url": "https://cine-3aeba.firebaseio.com",
+    "project_id": "cine-3aeba",
+    "storage_bucket": "cine-3aeba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966283767355:android:04bc8e38474169bc",
+        "android_client_info": {
+          "package_name": "es.upm.etsisi.cine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966283767355-husmhqu0nlmsvp0f91hlp16kk8bg3e0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.upm.etsisi.cine",
+            "certificate_hash": "7bc384aad8c8658de1e2a0bf1eae5771405dbeab"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqcLE1dir65Tu1YuUTrfwigArQd7h-TrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966283767355-8462jpnqchf0av34gjcmlc2f4rjgeq76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
